@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "https://app.test.mypaymash.com",
+    "noEmit": true,
+    "target": "es2022",
+    "lib": ["es2022", "dom"],
+    "types": ["cypress", "node"]
+  },
+  "include": ["**/*.ts", "../cypress.d.ts"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "e2e.ts",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.10.0",
+    "typescript": "^4.8.4"
+  }
+}
